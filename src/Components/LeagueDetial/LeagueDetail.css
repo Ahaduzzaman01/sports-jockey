@@ -1,0 +1,45 @@
+.league-logo {
+    height: 230px;
+    text-align: center;
+}
+
+.league-logo img {
+    position: relative;
+    height: 90%;
+    top: 5%;
+}
+
+.main-detail-part {
+    border-radius: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.player-image-box {
+    width: 42%;
+}
+
+.player-image-box img {
+    width: 100%;
+}
+
+.icons {
+    text-align: center;
+    font-size: 35px;
+}
+
+.icons a {
+    margin-right: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .main-detail-part {
+        flex-direction: column;
+    }
+
+    .player-image-box {
+        width: 100%;
+    }
+}
