@@ -64,9 +64,9 @@ const LeagueDetail = () => {
                 </div>
 
                 <div className="icons pb-3">
-                    <a href={`https://${strTwitter}`} target="_blank" class="text-secondary"><FontAwesomeIcon icon={faTwitter} /></a>
-                    <a href={`https://${strFacebook}`} target="_blank" class="text-secondary"><FontAwesomeIcon icon={faFacebook} /></a>
-                    <a href={`https://${strYoutube}`} target="_blank" class="text-secondary"><FontAwesomeIcon icon={faYoutube} /></a>
+                    <a href={`https://${strTwitter}`} target="_blank" rel="noreferrer" class="text-secondary"><FontAwesomeIcon icon={faTwitter} /></a>
+                    <a href={`https://${strFacebook}`} target="_blank" rel="noreferrer" class="text-secondary"><FontAwesomeIcon icon={faFacebook} /></a>
+                    <a href={`https://${strYoutube}`} target="_blank" rel="noreferrer" class="text-secondary"><FontAwesomeIcon icon={faYoutube} /></a>
                 </div>
             </div>
         </>
