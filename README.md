@@ -2,10 +2,10 @@ My project name is:
 # Sports Jockey
 
 ## Live website link:
-
+[Visit live site](https://sad-shockley-6ba867.netlify.app/)
 
 ## Github code link:
-
+[Code link](https://github.com/Porgramming-Hero-web-course/react-router-Ahaduzzaman01)
 
 ## All about my project:
 My project is about different types of sports leagues. There you will find various information of different leagues.
